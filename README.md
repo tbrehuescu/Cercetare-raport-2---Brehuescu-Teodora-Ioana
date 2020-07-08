@@ -12,3 +12,4 @@ Metrici colectate:
 - rata de finalizare a sarcinilor (getCompletionRate())
 - timpul de utilizare a cloud-ului (cloudUsageTime)
 
+__Proiect Overleaf:__ https://www.overleaf.com/project/5ed89570f5854d0001aebd6d
